@@ -27,7 +27,7 @@ Features:
 - Supports 4 LM10UU bearings or LM10LUU bearings
 - Prints with minimal supports
 - Belt lock
-- Retains most mod compatibility that uses screws to secure
+- Retains most mod compatibility
 
 Recommended print settings:
 - Nozzle diameter: 0.4mm
