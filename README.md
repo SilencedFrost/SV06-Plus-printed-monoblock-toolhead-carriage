@@ -43,6 +43,6 @@ Recommended materials:
 
 Installation requires:
 - 9 * M3 heatset inserts (3 mandatory, 6 optional)
-- 6 * M3 x 8mm BHCS
+- 5 * M3 x 8mm BHCS
 - 2 * M3 x 4mm BHCS
-- 6 * M3 nut
+- 5 * M3 nut
